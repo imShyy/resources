@@ -93,13 +93,13 @@
         {
             "n": "setSelectedSceneTileX",
             "c": "jy",
-            "p": "ek",
+            "p": "bg",
             "m": 1
         },
         {
             "n": "setSelectedSceneTileY",
             "c": "jy",
-            "p": "zh",
+            "p": "bu",
             "m": 1
         },
         {
