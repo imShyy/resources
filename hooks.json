@@ -16,13 +16,13 @@
     {
       "n": "setSelectedSceneTileX",
       "c": "ih",
-      "p": "bh",
+      "p": "wq",
       "m": 1
     },
     {
       "n": "setSelectedSceneTileY",
       "c": "ih",
-      "p": "bc",
+      "p": "pk",
       "m": 1
     },
     {
@@ -130,13 +130,13 @@
     {
       "n": "menuOptionsArray",
       "c": "xx",
-      "p": "aa",
+      "p": "ac",
       "m": 1
     },
     {
       "n": "menuTargetsArray",
       "c": "xx",
-      "p": "ac",
+      "p": "aa",
       "m": 1
     }
   ]
