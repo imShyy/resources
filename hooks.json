@@ -16,13 +16,13 @@
     {
       "n": "setSelectedSceneTileX",
       "c": "ev",
-      "p": "bw",
+      "p": "bv",
       "m": 1
     },
     {
       "n": "setSelectedSceneTileY",
       "c": "ev",
-      "p": "ba",
+      "p": "wi",
       "m": 1
     },
     {
@@ -52,7 +52,7 @@
     {
       "n": "getOldNpcOverheadArray",
       "c": "pp",
-      "p": "er",
+      "p": "dl",
       "m": 1
     },
     {
@@ -76,7 +76,7 @@
     {
       "n": "isMoving",
       "c": "da",
-      "p": "cn",
+      "p": "dm",
       "m": 685222699
     },
     {
@@ -94,7 +94,7 @@
     {
       "n": "menuOptionsCount",
       "c": "wz",
-      "p": "ag",
+      "p": "ot",
       "m": -930898849
     },
     {
